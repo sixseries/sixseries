@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sixseries&show_icons=true&theme=radical&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sixseries&show_icons=true&theme=merko&count_private=true" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixseries&layout=compact&theme=radical&hide_border=false&langs_count=10" />
