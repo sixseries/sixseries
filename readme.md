@@ -4,11 +4,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sixseries&show_icons=true&theme=merko&count_private=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixseries&layout=compact&theme=radical&hide_border=false&langs_count=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixseries&layout=compact&theme=merko&hide_border=false&langs_count=10" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,discordjs,html,css,git,github,vscode,npm,ubuntu,docker&perline=18" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,discordjs,html,css,git,github,vscode,npm,docker&perline=18" />
 </p>
