@@ -27,7 +27,7 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 | Platform | Link/Contact |
 | :--- | :--- |
 | **Discord Contact** | `fourmiles` |
-| **Nova** | `[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4WJnXKtp8Z)` |
+| **Nova** | [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4WJnXKtp8Z) |
 | **Email** | `fourmiles[at]gmail.com` |
 
 ## Connect With Me:
