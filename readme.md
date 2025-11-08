@@ -1,6 +1,31 @@
-# 💫 About Me:
-# 👋 Hi, I'm fourmiles!<br><br>I'm a passionate **Software Engineer** from the United States who loves to recreate large projects & experiment with new API updates.<br><br>## Tech Stack <br><br>| Category | Technologies |<br>| :--- | :--- |<br>| **Languages** | **JavaScript (JS)**, **TypeScript (TS)**, HTML, CSS |<br>| **Frontend** | **React**, **Next.js** |<br>| **Backend / Runtime** | **Node.js**, **Discord.js** |<br>| **Database** | **MongoDB** |<br>| **Tools / Dev Workflow** | **Git**, **GitHub**, **Docker**, VS Code, npm |<br><br>## Professional & Side Projects<br><br>### **Discord Apps**<br>You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a small business around these 3 projects:<br><br>* **[Novex](https://discord.gg/fZj5YxfCc4)**: A roleplay bot platform, used to sell and redirect developers to sell their services with our server.<br>* **[Nova](https://discord.gg/4WJnXKtp8Z)**: A discord bot which uses PIL to recolor pixels in a discord emoji.<br><br>## Connect With Me<br><br>| Platform | Link/Contact |<br>| :--- | :--- |<br>| **Discord** | `fourmiles` |<br>| **Email** | `fourmiles[at]gmail.com` |<br>
+# 👋 Hi, I'm fourmiles!
 
+I'm a passionate **Software Engineer** from the United States who loves to recreate large projects & experiment with new API updates.
+
+## Tech Stack 
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | **JavaScript (JS)**, **TypeScript (TS)**, HTML, CSS |
+| **Frontend** | **React**, **Next.js** |
+| **Backend / Runtime** | **Node.js**, **Discord.js** |
+| **Database** | **MongoDB** |
+| **Tools / Dev Workflow** | **Git**, **GitHub**, **Docker**, VS Code, npm |
+
+## Professional & Side Projects
+
+### **Discord Apps**
+You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a small business around these 3 projects:
+
+* **[Novex](https://discord.gg/fZj5YxfCc4)**: A roleplay bot platform, used to sell and redirect developers to sell their services with our server.
+* **[Nova](https://discord.gg/4WJnXKtp8Z)**: A discord bot which uses PIL to recolor pixels in a discord emoji.
+
+## Connect With Me
+
+| Platform | Link/Contact |
+| :--- | :--- |
+| **Discord** | `fourmiles` |
+| **Email** | `fourmiles[at]gmail.com` |
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4WJnXKtp8Z) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@forumoftime) 
