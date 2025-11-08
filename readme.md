@@ -27,10 +27,9 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 | Platform | Link/Contact |
 | :--- | :--- |
 | **Discord Contact** | `fourmiles` |
+| **Email** | `fourmiles[at]gmail.com` |
 | **Nova** | [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4WJnXKtp8Z) |
 | **TikTok** | [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@forumoftime)  |
-| **Email** | `fourmiles[at]gmail.com` |
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=sixseries&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
