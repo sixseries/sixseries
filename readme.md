@@ -26,10 +26,10 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 
 | Platform | Link/Contact |
 | :--- | :--- |
-| **Discord** | `fourmiles` |
+| **Discord** | `fourmiles` [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4WJnXKtp8Z) |
 | **Email** | `fourmiles[at]gmail.com` |
 
-## 🌐 Socials:
+## Connect With Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4WJnXKtp8Z) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@forumoftime) 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
