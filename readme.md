@@ -24,7 +24,7 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 
 | Platform | Link/Contact |
 | :--- | :--- |
-| **Discord** | `[at]fourmiles` |
+| **Discord** | `fourmiles` |
 | **Email** | `fourmiles[at]gmail.com` |
 
 <table align="center">
