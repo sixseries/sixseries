@@ -1,24 +1,24 @@
 # 👋 Hi, I'm fourmiles!
 
-I'm a passionate **Software Engineer** from Germany who loves to tinker with new technologies and build exciting products.
+I'm a passionate **Software Engineer** from the United States who loves to recreate large projects & experiment with new API updates.
 
-## 💻 Tech Stack & Expertise
+## Tech Stack 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Primary** | **React**, **TypeScript**, **Go** |
-| **Also Working With** | **Rust** (always up for a compiler challenge!) |
+| **Languages** | **JavaScript (JS)**, **TypeScript (TS)**, HTML, CSS |
+| **Frontend** | **React**, **Next.js** |
+| **Backend / Runtime** | **Node.js**, **Discord.js** |
+| **Database** | **MongoDB** |
+| **Tools / Dev Workflow** | **Git**, **GitHub**, **Docker**, VS Code, npm |
 
-## 💼 Professional & Side Ventures
+## Professional & Side Projects
 
-### **Friendly Captcha (Part-Time Role)**
-Currently working as a software engineer at **[Friendly Captcha](https://friendlycaptcha.com)**, where we are focused on building a **privacy and accessibility-focused alternative** to Google's reCAPTCHA.
+### **Discord Apps**
+You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a small business around these 3 projects:
 
-### **Discord Apps & Side Business**
-When I'm not with Friendly Captcha, you'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a small business around these projects:
-
-* **[Xenon](https://xenon.bot)** and **[Embed Generator](https://message.style)**: Two of the biggest and most used apps on the Discord platform.
-* **[Kite](https://kite.onl)**: My recently launched no-code platform specifically designed for building Discord applications without writing code.
+* **[Novex](https://discord.gg/fZj5YxfCc4)**: A roleplay bot platform, used to sell and redirect developers to sell their services with our server.
+* **[Nova](https://discord.gg/4WJnXKtp8Z)**: A discord bot which uses PIL to recolor pixels in a discord emoji.
 
 ## ✍️ Latest Blog Posts
 
