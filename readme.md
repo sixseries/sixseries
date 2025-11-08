@@ -20,21 +20,12 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 * **[Novex](https://discord.gg/fZj5YxfCc4)**: A roleplay bot platform, used to sell and redirect developers to sell their services with our server.
 * **[Nova](https://discord.gg/4WJnXKtp8Z)**: A discord bot which uses PIL to recolor pixels in a discord emoji.
 
-## ✍️ Latest Blog Posts
-
-Here's what I've been writing about recently:
-
-* [Scraping the biggest rental bike provider](https://merlin.gg/posts/scraping-biggest-rental-bike-rovider)
-* [Building a No-Code Platform](https://merlin.gg/posts/building-a-nocode-platform)
-* [Asking the right questions](https://merlin.gg/posts/asking-the-right-questions)
-* [Cross-compiling Rust From Mac to Linux](https://merlin.gg/posts/cross-compiling-rust-from-mac-to-linux)
-
-## ✉️ Connect With Me
+## Connect With Me
 
 | Platform | Link/Contact |
 | :--- | :--- |
-| **GitHub** | **[merlinfuchs](https://github.com/merlinfuchs)** |
-| **Email** | `hi[at]merlin.gg` |
+| **Discord** | `[at]fourmiles` |
+| **Email** | `fourmiles[at]gmail.com` |
 
 <table align="center">
   <tr>
