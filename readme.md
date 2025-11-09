@@ -8,9 +8,9 @@ I'm a passionate **Software Engineer** from the United States who loves to recre
 | :--- | :--- |
 | **Languages** | **Python**, **TypeScript**, **JavaScript**, **Go**, **Java**, **C++**, **C#**, **C**, **PHP**, **Rust**, HTML5 |
 | **Frontend** | **React**, **Next JS** |
-| **Backend / Runtime** | **NodeJS**, **.Net**, **Flask**, **AdonisJS**, Nodemon |
+| **Backend / Runtime** | **NodeJS**, **.Net**, **Flask**, **AdonisJS**, **Nodemon** |
 | **Databases** | **MongoDB**, **MySQL**, **Postgres**, **SQLite**, **Oracle**, **Supabase**, **Firebase** |
-| **Cloud / Hosting** | **AWS**, **Google Cloud**, **Cloudflare**, **Vercel**, **Render** |
+| **Cloud / Hosting** | **AWS**, **Google Cloud**, **Cloudflare**, **Vercel**, **Render**, **Azure** |
 | **Tools / Utilities** | **PowerShell**, **NPM**, **OpenGL** |
 | **Design / Media** | **Figma**, **Canva**, **Blender**, **Adobe Photoshop**, **Adobe After Effects** |
 
