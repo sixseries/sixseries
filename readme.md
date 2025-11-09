@@ -27,7 +27,7 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 | Platform | Link/Contact |
 | :--- | :--- |
 | **Discord Contact** | `fourmiles` |
-| **Email** | `fourmiles[at]gmail.com` |
+| **Email** | `kash.inquire[at]gmail.com` |
 | **Nova** | [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4WJnXKtp8Z) |
 | **TikTok** | [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@forumoftime)  |
 
