@@ -3,7 +3,6 @@
 # 👋 Hi, I'm fourmiles!
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count since Feb 27, 2022</b></p>  
 <a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=sixseries&style=flat-square&color=blueviolet" /></p> </a>
 <br></div>
 
