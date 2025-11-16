@@ -29,10 +29,10 @@ I'm a passionate **Software Engineer** from the United States who loves to recre
 
 ### **Discord Apps**
 You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a small business around these 3 projects:
-
+<div align="left">
 * **[Novex](https://discord.gg/fZj5YxfCc4)**: A roleplay bot platform, used to sell and redirect developers to sell their services with our server.
 * **[Nova](https://discord.gg/4WJnXKtp8Z)**: A discord bot which uses PIL to recolor pixels in a discord emoji.
-
+</div>
 ---
 
 ## Connect With Me
