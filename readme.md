@@ -1,5 +1,10 @@
 # 👋 Hi, I'm fourmiles!
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count since Feb 27, 2022</b></p>  
+<a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=sixseries&base=28102&BASE_VALUE_IS_MIGRATED_FROM_profile-counter.glitch.me" /></p> </a>
+<br></div>
+
 I'm a passionate **Software Engineer** from the United States who loves to recreate large projects & experiment with new API updates.
 
 ## Tech Stack 
