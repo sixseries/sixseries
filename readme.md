@@ -26,9 +26,6 @@ I'm a passionate **Software Engineer** from the United States who loves to recre
 | **Tools / Utilities** | **PowerShell**, **NPM**, **OpenGL** |
 | **Design / Media** | **Figma**, **Canva**, **Blender**, **Adobe Photoshop**, **Adobe After Effects** |
 
-</div>
-<div align="center">
-
 ---
 
 ## Professional & Side Projects
@@ -38,6 +35,9 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 
 * **[Novex](https://discord.gg/fZj5YxfCc4)**: A roleplay bot platform, used to sell and redirect developers to sell their services with our server.
 * **[Nova](https://discord.gg/4WJnXKtp8Z)**: A discord bot which uses PIL to recolor pixels in a discord emoji.
+
+</div>
+<div align="center">
 
 ---
 
