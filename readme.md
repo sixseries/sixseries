@@ -45,6 +45,5 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 | :--- | :--- |
 | **Discord Contact** | `xzgu` |
 | **Email** | `hi@fourmiles.xyz` |
-| **TikTok** | [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@forumoftime)  |
 
 </div>
