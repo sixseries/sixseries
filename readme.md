@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** from the United States who loves to recre
 ## Professional & Side Projects
 
 ### **Discord Apps**
-You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a small business around these 3 projects:
+You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a **small** business around these project(s):
 
 * **Nova**: A discord bot which uses PIL to recolor pixels in a discord emoji.
 
