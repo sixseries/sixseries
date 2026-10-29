@@ -2,48 +2,18 @@
 
 # 👋 Hi, I'm fourmiles!
 
-<div align="center">
-<a href="#"><p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=sixseries&style=flat-square&color=blueviolet" /></p> </a>
-<br></div>
+![Views](https://komarev.com/ghpvc/?username=sixseries&style=flat-square&color=blueviolet)
 
-I'm a passionate **Software Engineer** from the United States who loves to recreate large projects & experiment with new API updates.
+Software engineer building custom Discord applications, systems infrastructure, and web apps.
 
 ---
 
-</div>
-<div align="left">
-
-## Tech Stack 
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | **Python**, **TypeScript**, **JavaScript**, **Go**, **Java**, **C++**, **C#**, **C**, **PHP**, **Rust**, HTML5 |
-| **Frontend** | **React**, **Next JS** |
-| **Backend / Runtime** | **NodeJS**, **.Net**, **Flask**, **AdonisJS**, **Nodemon** |
-| **Databases** | **MongoDB**, **MySQL**, **Postgres**, **SQLite**, **Oracle**, **Supabase**, **Firebase** |
-| **Cloud / Hosting** | **AWS**, **Google Cloud**, **Cloudflare**, **Vercel**, **Render**, **Azure** |
-| **Tools / Utilities** | **PowerShell**, **NPM**, **OpenGL** |
-| **Design / Media** | **Figma**, **Canva**, **Blender**, **Adobe Photoshop**, **Adobe After Effects** |
+### Tech Stack
+`TypeScript` • `Node.js` • `Python` • `Next.js` • `React` • `Tailwind CSS` • `MongoDB` • `Docker` • `Cloudflare`
 
 ---
 
-## Professional & Side Projects
-
-### **Discord Apps**
-You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a **small** business around these project(s):
-
-* **Nova**: A Discord bot which uses PIL to recolor pixels in a discord emoji.
-
-</div>
-<div align="center">
-
----
-
-## Connect With Me
-
-| Platform | Link/Contact |
-| :--- | :--- |
-| **Discord Contact** | `adoringmiles` |
-| **Email** | `hi@fourmiles.xyz` |
+### Connect & Links
+🌐 [fainti.ng](https://fainti.ng) &nbsp;|&nbsp; 💬 Discord: `adoringmiles` &nbsp;|&nbsp; ✉️ [hi@fourmiles.xyz](mailto:hi@fourmiles.xyz)
 
 </div>
