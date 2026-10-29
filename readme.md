@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm fourmiles!
+# 👋 hey, I'm fourmiles!
 
 ![Views](https://komarev.com/ghpvc/?username=sixseries&style=flat-square&color=blueviolet)
 
