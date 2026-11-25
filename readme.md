@@ -14,6 +14,6 @@ Software engineer building custom Discord applications, systems infrastructure, 
 ---
 
 ### Connect & Links
-🌐 [fainti.ng](https://fainti.ng) &nbsp;|&nbsp; 💬 Discord: `adoringmiles` &nbsp;|&nbsp; ✉️ [hi@fourmiles.xyz](mailto:hi@fourmiles.xyz)
+🌐 [fainti.ng](https://fainti.ng) &nbsp;|&nbsp; 💬 Discord: `sixseries` &nbsp;|&nbsp; ✉️ [hi@fourmiles.xyz](mailto:hi@fourmiles.xyz)
 
 </div>
